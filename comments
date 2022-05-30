@@ -1,0 +1,6 @@
+print('simin')
+# this is a python script
+# if it was bash shell script, it will be;
+# echo "simon"
+# note, python script is executed with python interpreter(tython)
+# bash shell cript is run or executed with bash shell interpreter(bash or sh)
